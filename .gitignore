@@ -1,0 +1,6 @@
+*.npy
+*.h5
+*.jpeg
+img_align_celeba
+.idea
+.ipynb_checkpoints
